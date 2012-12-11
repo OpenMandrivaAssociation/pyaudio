@@ -38,3 +38,11 @@ rm -rf %{buildroot}
 %{python_sitearch}/*.py*
 %{python_sitearch}/*.so
 %{python_sitearch}/*egg-info
+
+
+%changelog
+* Fri Oct 07 2011 Leonardo Coelho <leonardoc@mandriva.com> 0.2.4-1
++ Revision: 703506
+- first mandriva version
+- Created package structure for 'pyaudio'.
+
