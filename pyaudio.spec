@@ -3,7 +3,7 @@ Name:		pyaudio
 Version:	0.2.8
 Release:	1
 License:	MIT
-Url:		http://people.csail.mit.edu/hubert/pyaudio/
+Url:		https://people.csail.mit.edu/hubert/pyaudio/
 Source0:	http://people.csail.mit.edu/hubert/pyaudio/packages/%{name}-%{version}.tar.gz
 Group:		System/Libraries
 Summary:	Python bindings for PortAudio
