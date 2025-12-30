@@ -1,7 +1,7 @@
 %define pkg_name PyAudio
 Name:		pyaudio
 Version:	0.2.8
-Release:	2
+Release:	3
 License:	MIT
 Url:		https://people.csail.mit.edu/hubert/pyaudio/
 Source0:	http://people.csail.mit.edu/hubert/pyaudio/packages/%{name}-%{version}.tar.gz
