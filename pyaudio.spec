@@ -3,7 +3,7 @@
 Name:		pyaudio
 Summary:	Python bindings for PortAudio v19
 Version:	0.2.14
-Release:	1
+Release:	2
 License:	MIT
 Group:		System/Libraries
 URL:		https://people.csail.mit.edu/hubert/pyaudio/
